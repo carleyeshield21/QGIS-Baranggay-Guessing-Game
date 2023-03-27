@@ -1,0 +1,38 @@
+Baranggay,x-coord,y-coord
+San Vicente,255.0,316.0
+Old Capitol Site,197.0,257.0
+Krus Na Ligas,345.0,227.0
+U.P. Village,250.0,248.0
+Botocan,370.0,88.0
+Teacher's Village West,295.0,184.0
+Teacher's Village East,254.0,153.0
+Sikatuna Village,294.0,83.0
+Malaya,235.0,44.0
+Central,169.0,163.0
+Pinyahan,99.0,74.0
+South Triangle,-73.0,95.0
+Sacred Heart,-45.0,-9.0
+Laging Handa,-158.0,2.0
+Kamuning,-19.0,-65.0
+Pinagkaisahan,60.0,-94.0
+Immaculate Concepcion,54.0,-164.0
+San Martin de Porres,143.0,-225.0
+Camp Aguinaldo,348.0,-386.0
+Kaunlaran,44.0,-225.0
+Horseshoe,21.0,-292.0
+Valencia,-81.0,-311.0
+Mariana,-121.0,-198.0
+Kristong Hari,-171.0,-107.0
+Obrero,-163.0,-59.0
+Paligsahan,-294.0,-2.0
+Roxas,-303.0,-68.0
+Kalusugan,-298.0,-133.0
+Damayang Lagi,-278.0,-231.0
+Tatalon,-438.0,-132.0
+Dona Imelda,-358.0,-247.0
+Santol,-405.0,-305.0
+Santo Nino,-460.0,-316.0
+San Isidro,-508.0,-287.0
+Aurora,-497.0,-232.0
+Dona Josefa,-534.0,-178.0
+Don Manuel,-553.0,-232.0
